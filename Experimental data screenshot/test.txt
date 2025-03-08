@@ -1,1 +1,17 @@
-111
+ALL comparison under the same config, code will be released soon...
+
+Comparison:
+7b pretrain accuracy
+13b pretrain accuracy
+7b lora-tune accuracy
+13b lora-tune accuracy
+proxy tuning accuracy
+consistent proxy tuning accuracy
+Gaussian Process proxy tuning accuracy
+GP with filter proxy tuning accuracy
+
+Benchmark:
+Consistent Proxy Tuning
+LoRA
+GLUE Benchmark
+etc
