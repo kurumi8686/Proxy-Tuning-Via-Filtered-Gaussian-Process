@@ -1,9 +1,9 @@
-# Proxy-Tuning-Via-Filtered-Gaussian-Process
+# Efficient Black-box Model Tuning via Gaussian Process Proxy Modeling
 
 This repository corresponds to the paper *"Efficient Black-box Model Tuning via Gaussian Process Proxy Modeling."*
 
 ### Directory Overview
-- **Experimental Data Screenshot**
+- **Experimental data screenshot**
   - Contains experiment reports for all datasets presented in the paper.
   - The *GP Filter* section includes the corresponding filter parameter configurations, allowing you to reproduce the GP filter method (all random seeds set to 42).
 
